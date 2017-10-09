@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_Aleron.472358730.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Aleron.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Libraries" t="Include">
+          <e p="Entitas-Unity" t="Include">
+            <e p="Entitas" t="Include">
+              <e p="Compile.cs" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Sources" t="Include">
+          <e p="GameClient" t="Include">
+            <e p="GameClient.cs" t="Include" />
+            <e p="Model" t="Include">
+              <e p="Systems" t="Include">
+                <e p="TestSystem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="View" t="Include">
+              <e p="ModelManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="GameServer" t="Include">
+            <e p="GameServer.cs" t="Include" />
+            <e p="Model" t="Include">
+              <e p="Components" t="Include">
+                <e p="ServerComponent.cs" t="Include" />
+              </e>
+              <e p="Systems" t="Include">
+                <e p="ServerTestSystem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Generated" t="Include">
+            <e p="Client" t="Include">
+              <e p="ClientAttribute.cs" t="Include" />
+              <e p="ClientComponentsLookup.cs" t="Include" />
+              <e p="ClientContext.cs" t="Include" />
+              <e p="ClientEntity.cs" t="Include" />
+              <e p="ClientMatcher.cs" t="Include" />
+              <e p="Components" t="Include">
+                <e p="ClientDummyComponent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Components" t="Include">
+              <e p="Interfaces" t="Include">
+                <e p="IDummy.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Contexts.cs" t="Include" />
+            <e p="Feature.cs" t="Include" />
+            <e p="Server" t="Include">
+              <e p="Components" t="Include">
+                <e p="ServerDummyComponent.cs" t="Include" />
+                <e p="ServerServerComponent.cs" t="Include" />
+              </e>
+              <e p="ServerAttribute.cs" t="Include" />
+              <e p="ServerComponentsLookup.cs" t="Include" />
+              <e p="ServerContext.cs" t="Include" />
+              <e p="ServerEntity.cs" t="Include" />
+              <e p="ServerMatcher.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Model" t="Include">
+              <e p="Components" t="Include">
+                <e p="DummyComponent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Util" t="Include">
+              <e p="ExtensionMethods" t="Include">
+                <e p="Comparison.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Tests" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NewEditModeTest.cs" t="Include" />
+            <e p="Shared" t="Include">
+              <e p="Util" t="Include">
+                <e p="ExtensionMethods" t="Include">
+                  <e p="ComparisonTest.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

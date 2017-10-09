@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleronGameServer", "GameServer\AleronGameServer.csproj", "{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\Aleron\Assembly-CSharp.csproj", "{69F92C7F-0541-4EE4-B12F-32118B232C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Debug|x86.ActiveCfg = Debug|x86
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Release|x86.ActiveCfg = Release|x86
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Release|x86.Build.0 = Release|x86
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Debug|x86.ActiveCfg = Debug|x86
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Debug|x86.Build.0 = Debug|x86
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Release|x86.ActiveCfg = Release|x86
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
+
+
+
+
+
+
+
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleronGameServer", "GameServer\AleronGameServer.csproj", "{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\Aleron\Assembly-CSharp.csproj", "{69F92C7F-0541-4EE4-B12F-32118B232C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7517B371-EC73-4E50-A79A-89463547E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7517B371-EC73-4E50-A79A-89463547E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7517B371-EC73-4E50-A79A-89463547E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7517B371-EC73-4E50-A79A-89463547E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

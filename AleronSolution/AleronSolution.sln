@@ -1,0 +1,43 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleronGameServer", "GameServer\AleronGameServer.csproj", "{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\Aleron\Assembly-CSharp.csproj", "{69F92C7F-0541-4EE4-B12F-32118B232C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "..\Aleron\Assembly-CSharp-Editor.csproj", "{3AEBA6B3-FC62-79BE-F56E-DFD56A593A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "..\Aleron\Assembly-CSharp-Editor-firstpass.csproj", "{0B8EC9CD-EC06-5F39-483B-3262A620DBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{69F92C7F-0541-4EE4-B12F-32118B232C87}.Debug|Any CPU.Build.0 = Release|Any CPU
+	
+
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9E9EDF-4D91-443A-91EB-4B6E95B62D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+
+
+		{3AEBA6B3-FC62-79BE-F56E-DFD56A593A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEBA6B3-FC62-79BE-F56E-DFD56A593A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEBA6B3-FC62-79BE-F56E-DFD56A593A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEBA6B3-FC62-79BE-F56E-DFD56A593A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8EC9CD-EC06-5F39-483B-3262A620DBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8EC9CD-EC06-5F39-483B-3262A620DBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8EC9CD-EC06-5F39-483B-3262A620DBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8EC9CD-EC06-5F39-483B-3262A620DBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
